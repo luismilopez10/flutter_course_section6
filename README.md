@@ -1,6 +1,6 @@
-# seccion6_fluttercourse
+# flutter_course_section6
 
-A new Flutter project.
+A Flutter project from Fernando Herrera's Udemy course "Flutter: Tu guía completa de desarrollo para IOS y Android".
 
 ## Getting Started
 
